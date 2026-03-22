@@ -14,7 +14,8 @@ interface PrayerTime {
 }
 
 const uzbekistanRegions = [
-  { name: "Toshkent", lat: 41.2995, lng: 69.2401 },
+ { name: "Margilan", lat: 40.4711, lng: 71.7246 },
+ { name: "Toshkent", lat: 41.2995, lng: 69.2401 },
   { name: "Andijon", lat: 40.7821, lng: 72.3442 },
   { name: "Farg'ona", lat: 40.3842, lng: 71.7843 },
   { name: "Namangan", lat: 40.9983, lng: 71.6726 },
