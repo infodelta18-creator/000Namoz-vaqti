@@ -14,7 +14,7 @@ interface PrayerTime {
 }
 
 const uzbekistanRegions = [
- { name: "Margilan", lat: 40.4711, lng: 71.7246 },
+ { name: "Marg'ilon shahri", lat: 40.4711, lng: 71.7246 },
  { name: "Toshkent", lat: 41.2995, lng: 69.2401 },
   { name: "Andijon", lat: 40.7821, lng: 72.3442 },
   { name: "Farg'ona", lat: 40.3842, lng: 71.7843 },
@@ -28,6 +28,28 @@ const uzbekistanRegions = [
   { name: "Surxondaryo", lat: 37.9414, lng: 67.5783 },
   { name: "Qashqadaryo", lat: 38.8597, lng: 65.7975 },
   { name: "Qoraqalpog'iston", lat: 42.4611, lng: 59.611 },
+  { name: "Qo'qon", lat: 40.5286, lng: 70.9425 },
+  { name: "Marg'ilon", lat: 40.4711, lng: 71.7246 },
+  { name: "Chirchiq", lat: 41.4689, lng: 69.5822 },
+  { name: "Angren", lat: 41.0167, lng: 70.1436 },
+  { name: "Olmaliq", lat: 40.8447, lng: 69.5983 },
+  { name: "Bekobod", lat: 40.2200, lng: 69.2697 },
+  { name: "Qarshi", lat: 38.8610, lng: 65.7847 },
+  { name: "Termiz", lat: 37.2242, lng: 67.2783 },
+  { name: "Shahrisabz", lat: 39.0578, lng: 66.8342 },
+  { name: "Jizzax", lat: 40.1158, lng: 67.8422 },
+  { name: "Guliston", lat: 40.4897, lng: 68.7842 },
+  { name: "Xiva", lat: 41.3783, lng: 60.3636 },
+  { name: "Taxiatosh", lat: 42.3156, lng: 59.5670 },
+  { name: "Chimboy", lat: 42.9290, lng: 59.7767 },
+  { name: "Denov", lat: 38.2675, lng: 67.8986 },
+  { name: "Kogon", lat: 39.7225, lng: 64.5517 },
+  { name: "G'ijduvon", lat: 40.1006, lng: 64.6833 },
+  { name: "Zarafshon", lat: 41.5700, lng: 64.2000 },
+  { name: "Uchquduq", lat: 42.1500, lng: 63.5667 },
+  { name: "Asaka", lat: 40.6415, lng: 72.2387 },
+  { name: "Pop", lat: 41.0389, lng: 71.1089 },
+  { name: "Kosonsoy", lat: 41.2558, lng: 71.5503 },
 ]
 
 export function PrayerTimes() {
