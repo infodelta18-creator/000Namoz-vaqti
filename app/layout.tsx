@@ -7,7 +7,7 @@ import { Suspense } from "react"
 import "./globals.css"
 
 export const metadata: Metadata = {
-  title: "Islamic Guide - Prayer Times & Quran",
+  title: "Netlivy - Prayer Times & Quran",
   description: "Your comprehensive Islamic guide with prayer times, prayer guides, and Quran surahs",
   generator: "v0.app",
 }
